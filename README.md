@@ -1,5 +1,5 @@
 ## adivina_el_numero
-Juego de adivinar un numero de 1 20
+Juego de adivinar un numero de 1 al 20
 
 # ANALISIS
 variables de entrada
